@@ -1,2 +1,2 @@
-# PODSNMP
-Simulation framework for political opinion dynamics on social news and media platforms (PODSNMP)
+# POD-SNMP
+Simulation framework for political opinion dynamics on social news and media platforms (POD-SNMPs)
